@@ -1,5 +1,4 @@
-Hi, I’m @jaquedemcz
-I’m interested in visual arts, web arts, illustration, cartoons, funny things...
+Hi, I’m @jaquedemcz. My interests are in visual arts, web arts, illustration, cartoons, funny things...
 I’m currently learning how to program in p5.js, I already did some HTML courses but I want to know something more intuitive
 I’m looking to collaborate on art projects and art galleries
  email me at jaquedek@gmail.com
